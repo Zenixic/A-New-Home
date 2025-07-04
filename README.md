@@ -1,12 +1,16 @@
 <div class="header" align="center">
-<img alt="Frontier Station" height="300" src="https://github.com/new-frontiers-14/frontier-station-14/blob/master/Resources/Textures/_NF/Logo/logo.png?raw=true" />
+New Home logo goes here.
 </div>
 
 A New Home is a fork of [Frontier Station](https://github.com/new-frontiers-14/frontier-station-14) .
 
+<p align="center"> <img alt="Frontier Station 14" width="440" height="150" src="https://github.com/new-frontiers-14/frontier-station-14/blob/30cdc70d8fcbf52f949337150bf42338ececbd80/Resources/Textures/Logo/logo.png?raw=true" /></p>
+
 This is the primary repo for A New Home.
 
 Frontier Station is a fork of [Space Station 14](https://github.com/space-wizards/space-station-14) that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) engine written in C#.
+
+<p align="center"> <img alt="Space Station 14" width="440" height="150" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
 
 If you want to host or create content for A New Home, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
