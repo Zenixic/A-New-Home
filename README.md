@@ -2,23 +2,25 @@
 <img alt="Frontier Station" height="300" src="https://github.com/new-frontiers-14/frontier-station-14/blob/master/Resources/Textures/_NF/Logo/logo.png?raw=true" />
 </div>
 
+A New Home is a fork of [Frontier Station](https://github.com/new-frontiers-14/frontier-station-14) .
+
+This is the primary repo for A New Home.
+
 Frontier Station is a fork of [Space Station 14](https://github.com/space-wizards/space-station-14) that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) engine written in C#.
 
-This is the primary repo for Frontier Station.
-
-If you want to host or create content for Frontier Station, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
+If you want to host or create content for A New Home, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
 ## Links
 
 <div class="header" align="center">
 
-[Discord](https://discord.gg/tpuAT7d3zm/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Patreon](https://www.patreon.com/frontierstation14) | [Wiki](https://frontierstation.wiki.gg/)
+[Discord](https://discord.gg/tpuAT7d3zm/](https://discord.gg/CeG8RDEUF3)) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | Wiki is not real
 
 </div>
 
 ## Documentation/Wiki
 
-Our [wiki](https://frontierstation.wiki.gg/) has documentation on Frontier Station's content.
+Our ( WIKI NOT CREATED ) has documentation on A New Home's content.
 
 ## Contributing
 
@@ -32,7 +34,7 @@ If you make any contributions, note that any changes made to files belonging to 
 
 1. Clone this repo:
 ```shell
-git clone https://github.com/new-frontiers-14/frontier-station-14.git
+git clone ( UPDATE THIS )
 ```
 2. Go to the project folder and run `RUN_THIS.py` to initialize the submodules and load the engine:
 ```shell
