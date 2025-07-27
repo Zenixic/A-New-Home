@@ -29,7 +29,7 @@
   mapPath: /Maps/_NF/Shuttles/bonsai.yml
   minPlayers: 0
   stations:
-    Bodkin:
+    Bonsai:
       stationProto: StandardFrontierVessel
       components:
       - type: StationNameSetup
