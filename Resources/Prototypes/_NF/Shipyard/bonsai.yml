@@ -1,0 +1,43 @@
+# Author Info
+# GitHub: 1
+# Discord: zenixic
+
+# Maintainer Info
+# GitHub: 1
+# Discord: zenixic
+
+# Shuttle Notes:
+#
+- type: vessel
+  id: Bonsai
+  parent: BaseVessel
+  name: KIS Bonsai
+  description: This is Leafy Lucy's personal speeder ship.
+  price: 23000 #.
+  category: Medium
+  group: Shipyard
+  shuttlePath: /Maps/_NF/Shuttles/bonsai.yml
+  guidebookPage: Null
+  class:
+  - Civilian
+  engine:
+  - Uranium
+
+- type: gameMap
+  id: Bonsai
+  mapName: 'KIS Bonsai'
+  mapPath: /Maps/_NF/Shuttles/bonsai.yml
+  minPlayers: 0
+  stations:
+    Bodkin:
+      stationProto: StandardFrontierVessel
+      components:
+      - type: StationNameSetup
+        mapNameTemplate: 'Bonsai {1}'
+        nameGenerator: !type:NanotrasenNameGenerator
+          prefixCreator: '14'
+      - type: StationJobs
+        availableJobs:
+          ContractorInterview: [ 0, 0 ]
+          PilotInterview: [ 0, 0 ]
+          MercenaryInterview: [ 0, 0 ]
