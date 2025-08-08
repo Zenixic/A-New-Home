@@ -3501,7 +3501,7 @@ entities:
       pos: -5.5,-8.5
       parent: 1
     - type: FuelGenerator
-      targetPower: 34000
+      targetPower: 31000
 - proto: PosterLegitBarDrinks
   entities:
   - uid: 421

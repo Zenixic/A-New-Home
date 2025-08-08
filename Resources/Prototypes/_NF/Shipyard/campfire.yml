@@ -19,8 +19,7 @@
   shuttlePath: /Maps/_NF/Shuttles/campfire.yml
   guidebookPage: Null
   class:
-  - Civilian
-  - Kitchen
+  - Service
   engine:
   - Uranium
 
