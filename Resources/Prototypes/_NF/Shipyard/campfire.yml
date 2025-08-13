@@ -13,7 +13,7 @@
   parent: BaseVessel
   name: KIS Campfire
   description: Gather your friends around the Campfire! Fitted with a bar, kitchen and living spaces.
-  price: 36300 #.
+  price: 51000 # ~45500 appraise.
   category: Medium
   group: Shipyard
   shuttlePath: /Maps/_NF/Shuttles/campfire.yml
